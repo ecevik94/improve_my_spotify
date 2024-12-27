@@ -11,6 +11,6 @@ Let's be honest, it was a disappointment because it was lack of human creativity
 You need to have a Spotify Developer account 
 - Then, create an app to reach your Client ID and Client Secret. 
 - Of course I can't share them with you :) 
-- I created two python files client_id and client_secret that includes these variables. Later I will use them as a secret variable. 
+- I created a .env files client_id and client_secret that includes these variables. Later I will use them as a secret variable. 
 
 
